@@ -1,4 +1,4 @@
-# PAPER ROCK SCISSORS
+# ROCK PAPER SCISSORS
 Check it out here: [Rock Paper Scissors](https://guavalines.github.io/Rock_Paper_Scissors/)
 
 ### Versions
