@@ -16,3 +16,8 @@ margin-bottom: 30px;
 .result_text {
   color: red;
 }
+
+#restart {
+  text-decoration: none;
+  color:darkred;
+}
