@@ -24,12 +24,15 @@ margin-bottom: 30px;
 
 #rock {
   background-color: grey;
+  border-radius: 10px;
 }
 
 #paper {
   background-color: white;
+  border-radius: 10px;
 }
 
 #scissors {
   background-color: aquamarine;
+  border-radius: 10px;
 }
