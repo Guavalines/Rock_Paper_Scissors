@@ -21,3 +21,15 @@ margin-bottom: 30px;
   text-decoration: none;
   color:darkred;
 }
+
+#rock {
+  background-color: grey;
+}
+
+#paper {
+  background-color: white;
+}
+
+#scissors {
+  background-color: aquamarine;
+}
