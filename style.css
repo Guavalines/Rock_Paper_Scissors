@@ -36,3 +36,15 @@ margin-bottom: 30px;
   background-color: aquamarine;
   border-radius: 10px;
 }
+
+#rockh1 {
+  color: grey;
+}
+
+#paperh1 {
+  color: white;
+}
+
+#scissorsh1 {
+  color: aquamarine;
+}
