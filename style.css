@@ -1,3 +1,7 @@
+img {
+  opacity: 0.8;
+}
+
 h1 {
 font-size: 80px;
 margin-top: 0px;
@@ -21,7 +25,7 @@ margin-bottom: 30px;
 }
 
 #rock {
-  background-color: grey;
+  background-color: rgb(154, 153, 153);
   border-radius: 10px;
 }
 
@@ -36,7 +40,7 @@ margin-bottom: 30px;
 }
 
 #rockh1 {
-  color: grey;
+  color: rgb(154, 153, 153);
 }
 
 #paperh1 {
@@ -50,5 +54,17 @@ margin-bottom: 30px;
 }
 
 body {
-  background-color: rgb(222, 211, 211);
+  background-image: url('RPS.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(48, 47, 47, 0.761);
+  z-index: -1;
 }
