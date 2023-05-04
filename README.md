@@ -1,4 +1,4 @@
-# [ROCK PAPER SCISSORS](https://guavalines.github.io/Rock_Paper_Scissors/) ☜ see it here
+# [ROCK PAPER SCISSORS](https://guavalines.github.io/Rock_Paper_Scissors/) ☜ play it here
 
 # Description
 Rock Paper Scissors is a game where two players choose rock, paper, or scissors, and the winner is determined by the rules: rock beats scissors, scissors beat paper, and paper beats rock. The player selects their move by clicking a button, and the computer randomly generates its move.
